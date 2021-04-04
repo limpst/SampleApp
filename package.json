@@ -9,7 +9,7 @@
     "start": "react-native start",
     "test": "jest",
     "lint": "eslint .",
-	"predeploy": "react-scripts build", 
+    "predeploy": "react-scripts build", 
     "deploy": "gh-pages -d build"
   },
   "dependencies": {
